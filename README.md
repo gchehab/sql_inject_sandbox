@@ -1,6 +1,5 @@
 # SQL Inject Sandbox
 A simple toolkit to learn and experiment with SQL Inject vulnerable application.
-by Guilherme Chehab
 
 ## Description
 This project was written as a learning tool on SQL Injection. I used the php as the framework as it is relatively simple to understant and to change, however, as it was to be a learning tool, its code was intended to be vulnerable.
