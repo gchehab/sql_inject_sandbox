@@ -35,5 +35,5 @@ The php file can be changed even with the containers running, as it is not copie
     * Initial commit
 
 ## License
-This software is licenced under LGPL 2.1
+This software is licenced under GPL 3
 
