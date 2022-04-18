@@ -2,7 +2,7 @@
 A simple toolkit to learn and experiment with SQL Inject vulnerable application.
 
 ## Description
-This project was written as a learning tool on SQL Injection. I used the php as the framework as it is relatively simple to understant and to change, however, as it was to be a learning tool, its code was intended to be vulnerable.
+This project was written as a learning tool on SQL Injection. I used the php as the framework as it is relatively simple to understant and to change, however, as it was to be a learning tool, its code was intended to be vulnerable. The original article is on the Computer Science section at baeldung.com
 
 ## Disclaimer
 As a vulnerable application, meant for educational purposes only, Its use, or parts of it, is strongly non-advisable. Use at your own risk.
@@ -36,3 +36,5 @@ The php file can be changed even with the containers running, as it is not copie
 ## License
 This software is licenced under GPL 3
 
+## Author
+Guilherme Chehab for Baeldung
